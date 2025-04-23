@@ -1,1 +1,4 @@
 # odin-recipes
+For this project, I developed a simple recipe website using only HTML. The site consists of four pages: a home page and three individual pages, each dedicated to a different recipe. This project allowed me to apply and demonstrate my understanding of basic HTML structure and functionality, including the use of lists, links, and image embedding.
+
+Through this hands-on experience, I’ve strengthened my foundational skills in HTML and gained confidence in creating multi-page static websites. This project showcases my ability to organize content clearly and navigate between pages using internal linking, laying the groundwork for future learning in web development.
